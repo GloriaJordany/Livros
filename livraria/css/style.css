@@ -1,0 +1,23 @@
+#imgIcon {
+    height: 45px;
+    width: 45px;
+}
+
+.box {
+    text-align: center;
+}
+
+.teste {
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+#lupaimg {
+    height: 50px;
+    width: 50px;
+}
+
+.img-cards {
+    height: 200px;
+    width: 200px;
+}
